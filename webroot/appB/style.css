@@ -1,0 +1,64 @@
+/* Stylesheet in appB folder */
+
+.header{
+	display:	block;
+	float:		left;
+	width: 100%;
+    margin: 0 auto;
+    background-color: #32CD32;
+	min-height: 70px;
+	text-align: center;
+	font-size: 1.45em;
+	font-weight: bold;
+}
+
+.menu{
+	display:	block;
+	float:		left;
+	width: 100%;
+    margin: 0 auto;
+    background-color: #32CD32;
+}
+
+.center{
+	display:	block;
+	float:		left;
+	width: 100%;
+    margin: 0 auto;
+    background-color: #32CD32;
+	min-height: 469.6px;
+	border: 1px solid black;
+}
+
+.content{
+	display:	inline;
+	float:		left;
+	width: 79%;
+    margin: 0 auto;
+    background-color: #32CD32;
+	padding-left: 14px;
+	border: 1px solid black;
+	min-height: 469.6px;
+	
+}
+
+.aside{
+	display:	inline;
+	float:		right;
+	width: 19%;
+    margin: 0 auto;
+    background-color: #32CD32;
+	min-height: 469.6px;
+	clear: left;
+}
+
+.footer{
+	display:	block;
+	
+	width: 80%;
+    margin: 0 auto;
+    background-color: #32CD32;
+	clear: top;
+	border: 1px solid black;
+}
+

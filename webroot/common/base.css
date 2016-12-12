@@ -1,0 +1,26 @@
+html {
+    display: 	block;
+}
+
+head{
+	display:	none;
+	
+}
+
+body{
+	display:	block;
+	font-family: Calibri, verdana, sans-serif;
+    font-size: 90%;
+	background-image: url("img/bg.jpg");
+	
+	
+}
+
+#container{
+	display:	block;
+	width: 80%;
+    margin: 0 auto;
+    background-color: #32CD32;
+    min-height: 580px;
+	opacity: 0.97;
+}
